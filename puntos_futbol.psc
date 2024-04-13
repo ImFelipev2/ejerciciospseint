@@ -8,5 +8,5 @@ Algoritmo puntos_futbol
 	Escribir "Ingresa tus derrotas"
 	Leer Derrotas
 	Puntos = (Victorias * 3) + Empates
-	Escribir "Tu equipo tiene " Puntos
+	Escribir "Tu equipo tiene " Puntos " puntos"
 FinAlgoritmo
