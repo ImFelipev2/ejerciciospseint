@@ -1,10 +1,10 @@
 Algoritmo contar_patas_de_animales
-		Definir gallinas, vacas, cerdos, patas_gallinas, patas_vacas, patas_cerdos, total_patas Como Entero
-		Escribir "Ingrese el número de gallinas: "
+		Definir gallinas, vacas, cerdos, pg, pv, pc, tp Como Entero
+		Escribir "Ingrese el nÃºmero de gallinas: "
 		Leer gallinas
-		Escribir "Ingrese el número de vacas: "
+		Escribir "Ingrese el nÃºmero de vacas: "
 		Leer vacas
-		Escribir "Ingrese el número de cerdos: "
+		Escribir "Ingrese el nÃºmero de cerdos: "
 		Leer cerdos
 		
 		pg = gallinas * 2
@@ -13,5 +13,5 @@ Algoritmo contar_patas_de_animales
 		
 		tp = pg + pv + pc
 		
-		Escribir "El número total de patas es: ", total_patas
+		Escribir "El nÃºmero total de patas es: ", total_patas
 FinAlgoritmo
